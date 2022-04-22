@@ -30,3 +30,4 @@ describe('Weekly booking', function () {
         assert.equal(0, weeklyWage('D', '3,4,4,4,6,0,3'));
     });
 });
+
